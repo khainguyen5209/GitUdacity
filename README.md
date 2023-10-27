@@ -8,9 +8,11 @@ Bike Share Project
 
 ### Description
 Investigate bike share database
+Use Python
 
 ### Files used
 bikeshare.py
+csv files are not included
 
 ### Credits
 You invest time, energy, and money into your email campaigns
