@@ -22,7 +22,7 @@ def get_filters():
     # TO DO: get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
     while True:
         print("")
-        print("Please select a city:")
+        print("Please select a city that you want to see:")
         print(" c  => Chicago")
         print(" ny => New York")
         print(" w  => Washington")
@@ -44,7 +44,7 @@ def get_filters():
     # TO DO: get user input for month (all, january, february, ... , june)
     while True:
         print("")
-        print("Please select a month:")
+        print("Please select a month you like:")
         print(" 0 => All")
         print(" 1 => January")
         print(" 2 => Feburary")
